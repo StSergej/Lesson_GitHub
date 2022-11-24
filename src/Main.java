@@ -10,6 +10,7 @@ class Calculator {
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Git!");
+        System.out.println("Hello, JAVA!");
 
         Calculator middle = new Calculator();
         System.out.println("Среднее значение равно: " + middle.calculator());
